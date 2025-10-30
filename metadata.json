@@ -1,0 +1,5 @@
+{
+  "name": "Madrasah Madinatul Uloom",
+  "description": "A comprehensive, multilingual web application for the Madrasah Madinatul Uloom, an Islamic educational institution. It includes modules for student, result, donation, and expense management, along with a public-facing website.",
+  "requestFramePermissions": []
+}
